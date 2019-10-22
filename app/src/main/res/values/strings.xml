@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Ng Jing Han</string>
+    <string name="my_profile_pic">Profile Picture</string>
+    <string name="my_profile_desc">
+        \nEducation:
+        \n\tSMK Skudai, Johor
+        \n
+        \n\tSJK(C)Pu Sze
+        \n
+        \n\tTARUC
+        \n
+        \n\t
+        \nEducation:
+        \n\tSMK Skudai, Johor
+        \n
+        \n\tSJK(C)Pu Sze
+        \n
+        \n\tTARUC
+        \n
+        \n\t\nEducation:
+        \n\tSMK Skudai, Johor
+        \n
+        \n\tSJK(C)Pu Sze
+        \n
+        \n\tTARUC
+        \n
+        \n\t
+
+    </string>
+</resources>
